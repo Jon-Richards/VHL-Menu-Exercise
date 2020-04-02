@@ -2,9 +2,13 @@
 
 ## Running The Project
 
-> Using the NPM package will server the page using http, allowing the use of
+> Using the NPM package will serve the page using http, allowing the use of
 > auditing tools like Chrome's Lighthouse.
 
+### Prerequisites
+* Any version of Node from 2019 or newer.
+
+### Setup
 * Clone this repository to your computer.
 * `$ npm install`
 * `$ npm start`
